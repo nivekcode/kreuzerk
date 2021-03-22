@@ -60,4 +60,4 @@ I love to share and expand my knowledge. Let's connect to share knowledge.
 </div>
 
 **If you like what I am doing follow me either here on GitHub or on Twitter and get updated about new projects, blog posts
-or libraries. Also feel free to [buy me a coffee](https://www.buymeacoffee.com/kreuzercode) to keep me working 😉 **
+or libraries. Also feel free to [buy me a coffee](https://www.buymeacoffee.com/kreuzercode) to keep me working 😉**
