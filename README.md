@@ -20,7 +20,7 @@ I love to share and expand my knowledge. Let's connect to share knowledge.
           <strong><a href="https://www.npmjs.com/~kreuzerk">My NPM packages</a></strong>
         </td>
         <td>
-           <strong><a href="https://indepth.dev/author/kevin/">Youtube channel</a></strong>
+           <strong><a href="https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw">Youtube channel</a></strong>
          </td>
       </tr>
       <tr>
