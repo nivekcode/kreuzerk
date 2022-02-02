@@ -20,7 +20,7 @@ I love to share and expand my knowledge. Let's connect to share knowledge.
           <strong><a href="https://www.npmjs.com/~kreuzerk">My NPM packages</a></strong>
         </td>
         <td>
-           <strong><a href="https://indepth.dev/author/kevin/">Blogs on "In depth"</a></strong>
+           <strong><a href="https://indepth.dev/author/kevin/">Youtube channel</a></strong>
          </td>
       </tr>
       <tr>
@@ -50,7 +50,7 @@ I love to share and expand my knowledge. Let's connect to share knowledge.
                       width="350px"
                       height="150px"
                       alt="Check out my Youtube channel"
-                      src="https://www.youtube.com/img/desktop/yt_1200.png"
+                      src="https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk"
                     />
                   </a>
                 </td>
