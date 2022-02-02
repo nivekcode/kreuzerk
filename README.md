@@ -45,12 +45,12 @@ I love to share and expand my knowledge. Let's connect to share knowledge.
           </a>
         </td>
         <td>
-                  <a href="https://indepth.dev/author/kevin/">
+                  <a href="https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw">
                     <img
                       width="350px"
                       height="150px"
-                      alt="Check out my In depth articles"
-                      src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6bd2c83614725.5d41c6e544863.png"
+                      alt="Check out my Youtube channel"
+                      src="https://www.youtube.com/img/desktop/yt_1200.png"
                     />
                   </a>
                 </td>
