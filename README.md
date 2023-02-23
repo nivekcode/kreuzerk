@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/kreuzerk/kreuzerk/master/banner.png)
+![Logo](https://raw.githubusercontent.com/kreuzerk/kreuzerk/master/banner-new.png)
 
 ## Hey, nice to see you here! 
 I'm Kevin. I am a Google Developer Expert in Web technologies and Angular. I am a big believer of open source software.
